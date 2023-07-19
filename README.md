@@ -10,7 +10,6 @@
   - [🛠️ Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [🔑 Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
   - [💻 Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -57,13 +56,6 @@ A simple Todo List application built with React and Material-UI.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [🔗 Live Demo Link](https://kit0-0.github.io/react-todo/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -82,7 +74,7 @@ To run this project, you need the following:
 Clone this repository to your desired folder:
 
 ```bash
-git clone https://github.com/kit0-0/react-todo.git
+git clone https://github.com/ClarenceAtim/react-todo.git
 ```
 
 ### Install
@@ -128,9 +120,9 @@ npm start
 
 ## 👤 Author <a name="author"></a>
 
-👤 Kiko
+👤 ClarenceAtim
 
-- GitHub: [@kit0-0](https://github.com/kit0-0)
+- GitHub: [@ClarenceAtim](https://github.com/ClarenceAtim)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,7 +148,7 @@ Contributions to Math Magicians are welcome! If you would like to contribute, pl
 4. Push your branch to your forked repository.
 5. Submit a pull request detailing the changes you've made.
 
-Feel free to check the [issues page](https://github.com/kit0-0/react-todo/issues).
+Feel free to check the [issues page](https://github.com/ClarenceAtim/react-todo/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
